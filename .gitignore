@@ -1,0 +1,7 @@
+attic/
+*.bak
+*-bak
+*.bck
+*.drl
+*.gbr
+*.swp

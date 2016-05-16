@@ -1,0 +1,11 @@
+Reference, Value, Footprint, Datasheet
+J1,LOGIC_IN,mcu123:IDC_2x5_female_if_left_edge_mounted,
+J2,MCU123,mcu123:IDC_2x5_female_if_left_edge_mounted,
+U1,NLSV8T244,Housings_SOIC:SOIC-20_7.5x12.8mm_Pitch1.27mm,
+U2,XC6206_SOT23,TO_SOT_Packages_SMD:SOT-23_Handsoldering,
+C1,2u2,Capacitors_SMD:C_0805_HandSoldering,
+C2,2u2,Capacitors_SMD:C_0805_HandSoldering,
+R1,1k,Resistors_SMD:R_0603_HandSoldering,
+D1,LED,LEDs:LED_0603,
+JP2,1V8,Pin_Headers:Pin_Header_Straight_1x02,
+JP1,3V3,Pin_Headers:Pin_Header_Straight_1x02,
